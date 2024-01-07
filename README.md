@@ -47,3 +47,8 @@ It is possible to run in non-gui mode, simply supplying all arguments directly o
 ```
 java -jar -nogui GadeSolverApp.jar  -k 15 35 -d 55dmsta 5 -d 12bctfb 4 -v d 2 -v b 1 -v m 678 -v c 012 -c "N55 27.291 E012 11.101" -cd 3000 -t "N55 dm.sta E012 bc.tfb"
 ```
+
+### See also
+
+[Gade app til felten - ikke cracker](https://play.google.com/store/apps/details?id=org.nolleper.gadedroid&hl=da&gl=US)
+[Geowiki beskrivelse af Gade](https://web.archive.org/web/20200918102839/https://geowiki.wegge.dk/wiki/Gade_(beregningsteknik))
