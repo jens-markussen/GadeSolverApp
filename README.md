@@ -34,7 +34,7 @@ Press "Go" to start the search for possible solutions. The solutions are returne
 
 The format of the output may be adjusted using the radio buttons (for adding a solution number/index, number of solutions, or alternatively exporting as KML for viewing into e.g. Google Earth).
 
-When pressing "Go", a line is populated with the exact command line arguments. This can be handy for saving the inputs for later as you may pass the arguments into the app as well. To pass arguments directly into the app. To start the app with a set range for `k` (the number of digits in the Gade), do 
+When pressing "Go", a line is populated with the exact command line arguments. This can be handy for saving the inputs for later as you may pass the arguments into the app as well. To pass arguments directly into the app, simply add them to the command line. For example, to start the app with a set range for `k` (the number of digits in the Gade) between 6 and 8 - both inclusive, do 
 
 ```
 java -jar GadeSolverApp.jar -k 6 8
