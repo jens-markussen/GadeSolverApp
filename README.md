@@ -50,5 +50,5 @@ java -jar -nogui GadeSolverApp.jar  -k 15 35 -d 55dmsta 5 -d 12bctfb 4 -v d 2 -v
 
 ### See also
 
-[Gade app til felten - ikke cracker](https://play.google.com/store/apps/details?id=org.nolleper.gadedroid&hl=da&gl=US)
-[Geowiki beskrivelse af Gade](https://web.archive.org/web/20200918102839/https://geowiki.wegge.dk/wiki/Gade_(beregningsteknik))
+- [Gade app til felten - ikke cracker](https://play.google.com/store/apps/details?id=org.nolleper.gadedroid&hl=da&gl=US)
+- [Geowiki beskrivelse af Gade](https://web.archive.org/web/20200918102839/https://geowiki.wegge.dk/wiki/Gade_(beregningsteknik))
