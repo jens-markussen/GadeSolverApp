@@ -20,7 +20,7 @@ To run the App, you must have Java installed locally. Best Free Java environment
 
 ## Running it
 
-To run the App in default (GUI) mode, simply enter below to bring up the [main screen](screen.JPG).
+To run the App in default (GUI) mode, simply enter below to bring up the ![main screen](screen.JPG).
 
 ```
 java -jar GadeSolverApp.jar
