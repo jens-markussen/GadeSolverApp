@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: gadeSolverApp.GadeSolverApp
+Permissions: all-permissions
+Codebase: *.vedelmarkussen.dk
+Application-Name: GadeSolverApp
