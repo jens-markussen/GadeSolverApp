@@ -1,6 +1,6 @@
 # GadeSolverApp
 
-Welcome to the GadeSolverApp. The objective is to attempt to crack a "Gade" structure as used in geocaching. It is assumed that the use knows about the Gade method. The App works by first generating all possible digit combinations for a given number of input digits (k). The generated combinations are then passed through a number of checks as defined by the user. These include digital roots, partially known inputs, distance function for resulting coordinates, etc. Coordinates that pass all checks are printed as possible solutions. 
+Welcome to the GadeSolverApp. The objective is to attempt to crack a "Gade" structure as used in geocaching. It is assumed that the user knows about the Gade method. The App works by first generating all possible digit combinations for a given number of input digits (k). The generated combinations are then passed through a number of checks as defined by the user. These include digital roots, partially known inputs, distance function for resulting coordinates, etc. Coordinates that pass all checks are printed as possible solutions. 
 
 
 ## Build
