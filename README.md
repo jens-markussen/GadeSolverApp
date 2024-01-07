@@ -10,7 +10,7 @@ Clone the directory and build the java project using your favorite tool (e.g. Vi
 
 ## Download directly
 
-Instead of building it yourself, you may download `GadeSolverApp.jar` directly from Releases without clonining the repository.
+Instead of building it yourself, you may download `GadeSolverApp.jar` using this [direct link](https://github.com/jens-markussen/GadeSolverApp/raw/main/GadeSolverApp.jar) from the repository without cloning it. 
 
 
 ## Install Java
@@ -20,11 +20,13 @@ To run the App, you must have Java installed locally. Best Free Java environment
 
 ## Running it
 
-To run the App in default (GUI) mode, simply enter below to bring up the ![main screen](screen.JPG).
+To run the App in default (GUI) mode, simply enter below to bring up the main screen.
 
 ```
 java -jar GadeSolverApp.jar
 ```
+
+![main screen](screen.JPG).
 
 The detailed arguments should hopefully be self-explanatory. Again, the error handling non-existant, so get it wrong and you are on your own. Take the opportunity to explore the included examples based on (now gone) cache GC3NZZH "Kan du cracke en gade" by SidseFrank. Simply select one of the examples and press "Use Selected Example".
 
