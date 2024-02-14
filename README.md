@@ -28,7 +28,7 @@ java -jar GadeSolverApp.jar
 
 ![main screen](screen.JPG).
 
-The detailed arguments should hopefully be self-explanatory. Again, the error handling non-existant, so get it wrong and you are on your own. Take the opportunity to explore the included examples based on (now gone) cache GC3NZZH "Kan du cracke en gade" by SidseFrank. Simply select one of the examples and press "Use Selected Example".
+The detailed arguments should hopefully be self-explanatory. Error handling is practically non-existant, so get it wrong and you are on your own! Take the opportunity to explore the included examples based on (now gone) cache GC3NZZH "Kan du cracke en gade" by SidseFrank. Simply select one of the examples and press "Use Selected Example".
 
 Press "Go" to start the search for possible solutions. The solutions are returned in the separate "Result" tab and as well written to the standard output. 
 
